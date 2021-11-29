@@ -4,6 +4,6 @@
 
 This repository is to upload your processed json files that contain the python fits to the magnetometer data
 
-assignment link: https://classroom.github.com/a/XyjXPnEN
+assignment link: https://classroom.github.com/a/saKp_ly7
 
 this is a "group" assignment so everyone should be able to access the same repository
