@@ -1,4 +1,4 @@
-# Lab4-Shared-Data
+# Lab6-Shared-Data
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
